@@ -33,8 +33,8 @@ print(name)
 print(age)
 
 # Cambiamos su tipo
-name = 35
-age = "Brais"
+name = 29
+age = "Dani"
 print(name)
 print(age)
 
